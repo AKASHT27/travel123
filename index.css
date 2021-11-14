@@ -1,0 +1,74 @@
+#id1{
+    font-family: 'Courier New', Courier, monospace;
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    text-align: center;
+    color: gree;
+    font-size: 40px;
+}
+.nava{
+    color: rgb(0, 0, 0);
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    margin: 20px;
+    font-size: 20px;
+}
+
+ #section{
+     
+    box-shadow: 0 0 10px black;
+
+     margin-left:20px;
+     width: 750px;
+     
+     }  
+ 
+ #article{
+   
+   
+    box-shadow: 0 0 10px black;
+     margin-top: 20px;
+     margin-left: 20px;
+     width: 750px;
+     
+     
+ } 
+ span{
+     display: inline-block;
+ }
+ 
+ 
+ .asideclass{
+    
+    box-shadow: 0 0 10px black;
+    
+ float: right;
+ width: 650px;
+ display: block;
+ margin-right: 20px;
+ margin-left: 20px;
+ } 
+ #footer{
+     display: block;
+     margin-top: 50px;
+    margin-bottom: 5px;
+    text-align: left;
+ }
+ dt{
+    text-align: center;
+     color: black;
+     font-size: 30px;
+ }
+ body{
+  
+    background-image: url(https://images.pexels.com/photos/1271619/pexels-photo-1271619.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=1500)
+ }
+ 
+ #footer {
+    background-color: rgb(4, 86, 161);
+    margin-top: 50px;
+    padding: 10px;
+    text-align: center;
+    color: rgb(250, 248, 248);
